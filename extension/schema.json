@@ -1,0 +1,10 @@
+{
+	"type": "object",
+	"properties": {
+		"PollInterval": {"type": "integer"},
+		"MaxInterval": {"type": "integer"},
+		"DefaultUser": {"type": "string"},
+		"DefaultIP": {"type": "string"},
+		"PostUrl": {"type": "string"}
+	}
+}
