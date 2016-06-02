@@ -95,7 +95,7 @@ $syslog->SetFacility(23);
 $syslog->SetSeverity(7);
 $syslog->SetHostname('#ThisWebServerHostname#');
 $syslog->SetFqdn('#FQDNofThisWebServer#');
-$syslog->SetIpFrom('#ThisIPAddreess#');
+$syslog->SetIpFrom('#ThisIPAddress#');
 $syslog->SetProcess('webautomation');
 $syslog->SetContent($syslogMsg);
 $syslog->SetServer($paAgentIP);
