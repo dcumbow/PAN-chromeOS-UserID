@@ -1,6 +1,11 @@
+This branch is a side project.  I am looking at utilizing new ChromeOS extension attributes that may update the functionality of this extension.  https://developer.chrome.com/docs/extensions/reference/api/enterprise/networkingAttributes
+
 PLEASE NOTE, GOOGLE HAS DEPRICATED THE USAGE OF APPS WITHIN CHROMEOS.  PLEASE CONSIDER ONE OF THE TWO FOLLOWING OPTIONS:
 - PULL USER-ID INFORMATION FROM YOUR WLC USING 802.1X AUTH AND SYSLOG USER-ID INGESTION
 - IF YOU HAVE THE GP LICENSE, UTILIZE THE GLOBALPROTECT APP FOR ANDROID RUNNING ON YOUR CHROMEBOOKS FOR ALWAYS-ON FUNCTIONALITY WITH INTERNAL GATEWAY AND USER-ID INFORMATION SHARING
+
+
+
 
 ###########################################################
 Project:  ChromeOS UserID Plugin for PanOS
